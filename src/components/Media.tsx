@@ -2,7 +2,7 @@ import { ArrowRight, Disc3, Film, Music, Play, Waves } from 'lucide-react';
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { useLanguage, type Language } from '../context/LanguageContext';
 import heroImage from '../img/Gachiakuta_World_Takeover.webp';
-import enjinShot from '../img/Engine_Full.webp';
+import enjinShot from '../img/TSUTAYA_Store_Chibi_Merch.webp';
 import volume06Cover from '../img/Volume_06.webp';
 import volume07Cover from '../img/Volume_07.webp';
 import volume08Cover from '../img/Volume_08.webp';
